@@ -3,5 +3,5 @@
     "description": "We are here to stay!",
     "ticker": "BLABS",
     "homepage": "https://www.blocklabs.info/",
-    "extended": "http://130.61.191.84:8000/meta-ext.json"
+    "extended": "https://raw.githubusercontent.com/mogog/stakepool-metadata/9376d9ee58f84d560df2923976ab7525820fa8e7/meta-ext.json"
 }
